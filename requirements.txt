@@ -1,3 +1,7 @@
 pandas
 matplotlib
+tensorflow-macos
+tensorflow-metal
+keras
+scikit-image
 scikit-learn
